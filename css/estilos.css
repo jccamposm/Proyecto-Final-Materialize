@@ -1,12 +1,6 @@
 .logobarra{
-  width: 100px;
+  width: 150px;
   margin-top: 0.5rem;
   margin-left: 0.5rem;
   float: left;
-}
-
-@media (max-width: 600px) {
-  .columna-grupos{
-    padding: 0 !important;
-  }
 }
